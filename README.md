@@ -1,20 +1,32 @@
-### Hi there 👋
+# ☕ If you cannot be a poet, be the poem. 
 
-<!--
-**ChengruiZhou/ChengruiZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChengruiZhou&count_private=true&show_icons=true&theme=tokyonight" />
 
-Here are some ideas to get you started:
+<div align="left">
+☎️ Contact zhelonghuang@mail.ustc.edu.cn
 
- - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=ChengruiZhou&theme=dark)
+💻 [Personal Website](https://chengruizhou.github.io/index.html)
 
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1660471340727820288.svg)](https://www.murphysec.com/console/report/1660471340685877248/1660471340727820288)
+📺 [BiliBili Page](https://space.bilibili.com/434538404)
+</div>
 
+---
+
+### Programming Language
+
+![](https://img.shields.io/badge/python-blue)
+![](https://img.shields.io/badge/javascript-yellow)
+![](https://img.shields.io/badge/c++-red)
+![](https://img.shields.io/badge/go-blue)
+![](https://img.shields.io/badge/java-orange)
+![](https://img.shields.io/badge/typescript-blue)
+![](https://img.shields.io/badge/verilog-purple)
+![](https://img.shields.io/badge/rust-red)
+
+<img width="44%" align ="left" src="self.jpg" />
+
+<img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengruiZhou&theme=tokyonight" />
+
+
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChengruiZhou&theme=tokyonight" />
