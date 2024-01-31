@@ -3,7 +3,8 @@
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChengruiZhou&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
-☎️ Contact zhelonghuang@mail.ustc.edu.cn
+☎️ Contact chengrui_zhou@163.com
+
 
 💻 [Personal Website](https://chengruizhou.github.io/index.html)
 
@@ -21,7 +22,8 @@
 ![](https://img.shields.io/badge/java-orange)
 ![](https://img.shields.io/badge/typescript-blue)
 ![](https://img.shields.io/badge/verilog-purple)
-![](https://img.shields.io/badge/rust-red)
+![](https://img.shields.io/badge/c++-red)
+![](https://img.shields.io/badge/matlab-blue)
 
 <img width="44%" align ="left" src="self.jpg" />
 
