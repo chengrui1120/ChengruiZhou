@@ -1,10 +1,9 @@
 # ☕ If you cannot be a poet, be the poem. 
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChengruiZhou&count_private=true&show_icons=true&theme=tokyonight" />
+<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=chengrui1120&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
 ☎️ Contact chengrui_zhou@163.com
-
 
 💻 [Personal Website](https://chengrui1120.github.io/index.html)
 
