@@ -5,10 +5,7 @@
 <div align="left">
 ☎️ Contact chengrui_zhou@163.com
 
-
-
 💻 [Personal Website](https://chengrui1120.github.io/index.html)
-
 
 📺 [BiliBili Page](https://space.bilibili.com/434538404)
 </div>
