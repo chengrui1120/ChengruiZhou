@@ -1,6 +1,6 @@
 # ☕ If you cannot be a poet, be the poem. 
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=chengrui1120&count_private=true&show_icons=true&theme=tokyonight" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=chengrui1120&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
 ☎️ Contact chengrui_zhou@163.com
@@ -26,8 +26,8 @@
 ![](https://img.shields.io/badge/shell-blue)
 ![](https://img.shields.io/badge/assembly-orange)
 
-<img width="44%" align ="left" src="self.jpg" />
+<img width="45%" align ="left" src="self.jpg" />
 
-<img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengrui1120&theme=tokyonight" />
+<img width="45%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengrui1120&theme=tokyonight" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chengrui1120&theme=tokyonight" />
