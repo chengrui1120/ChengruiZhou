@@ -16,15 +16,12 @@
 
 ![](https://img.shields.io/badge/python-blue)
 ![](https://img.shields.io/badge/matlab-blue)
-![](https://img.shields.io/badge/javascript-yellow)
 ![](https://img.shields.io/badge/c-red)
-![](https://img.shields.io/badge/go-blue)
-![](https://img.shields.io/badge/java-orange)
 ![](https://img.shields.io/badge/typescript-blue)
 ![](https://img.shields.io/badge/verilog-purple)
 ![](https://img.shields.io/badge/c++-red)
 ![](https://img.shields.io/badge/shell-blue)
-![](https://img.shields.io/badge/assembly-orange)
+
 
 <img width="45%" align ="left" src="self.jpg" />
 
