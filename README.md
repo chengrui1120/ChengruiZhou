@@ -8,11 +8,12 @@
 💻 [Personal Website](https://chengrui1120.github.io/index.html)
 
 📺 [BiliBili Page](https://space.bilibili.com/434538404)
+<i class=“wi wi day sunny”></i>
 </div>
 
 ---
 
-<i class=“wi wi day sunny”></i>
+
 
 ### Programming Language
 
