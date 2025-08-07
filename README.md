@@ -12,6 +12,8 @@
 
 ---
 
+<i class=“wi wi day sunny”></i>
+
 ### Programming Language
 
 ![](https://img.shields.io/badge/python-blue)
